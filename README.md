@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### This project uses a local json database to make it easier to run without installing much! Use json-server --watch ./data/db.json in the console to 'start' the database!
 
 ### `npm start`
 
